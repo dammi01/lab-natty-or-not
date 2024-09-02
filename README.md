@@ -1,48 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Os Talentos: Uma História Bíblica Para Crianças
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Adaptação de uma parábola bíblica (Daniel 6) para crianças.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ - IA Generativa Perplexity AI para geração do texto;
+ - Gnome Text Editor 46.3 para edição; 
+ - Readme.so para montagem do arquivo README.md;
+ - Libre Office para montagem final do texto. 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "Perplexity AI" para adaptar o conteúdo de um texto bíblico no livro de Daniel, capítulo 6 para crianças entre 08 - 13 anos. A montagem final foi feita no Libre Office, ferramenta open-source para edição de texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo bem compreensível, demonstrando como as IAs Generativas podem ser uma ferramenta poderosa na educação, também na área espiritual.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão 
+Uma experiência reveladora sobre o potencial criativo das IAs atualmente e como elas podem ser aplicadas em diferentes contextos e áreas, destacando também a poder de adaptação de vocabulário dependendo da faixa etária estabelecida.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
