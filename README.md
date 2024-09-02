@@ -18,6 +18,7 @@ O e-book apresenta um conteúdo bem compreensível, demonstrando como as IAs Gen
 ## 💭 Reflexão 
 Uma experiência reveladora sobre o potencial criativo das IAs atualmente e como elas podem ser aplicadas em diferentes contextos e áreas, destacando também a poder de adaptação de vocabulário dependendo da faixa etária estabelecida.
 
+[LINK PARA O E-BOOK AQUI](https://github.com/dammi01/lab-natty-or-not/blob/main/Aventura.md)
 
 ## Links Interessantes
 
